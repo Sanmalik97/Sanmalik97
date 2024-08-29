@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Javascript & Cloud Cyber Security
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me @scorpsan on X
+- 📫 How to reach me @scorpisan on X
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love re-reading Twilight series
 
